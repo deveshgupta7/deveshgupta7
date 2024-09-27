@@ -12,12 +12,9 @@ Here are some ideas to get you started:
 
 ### 🛠 My Faviorite Languages & Tools
 
-![Golang](https://img.shields.io/badge/-Golang%20%E2%9D%A4%EF%B8%8F-05122A?style=flat&logo=go&logoColor=Blue)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust%20%EF%B8%8F-05122A?style=flat&logo=Rust&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=Python&logoColor=yellow)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=lightgreen)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash%20%EF%B8%8F-05122A?style=flat&logo=Linux&logoColor=white)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![k8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
@@ -29,7 +26,6 @@ Here are some ideas to get you started:
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=5f43e9)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
 
-![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColo)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB&logoColor)&nbsp;
 
@@ -41,7 +37,6 @@ Here are some ideas to get you started:
 ![RockyLinux](https://img.shields.io/badge/-RockyLinux-05122A?style=flat&logo=rockylinux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=a80030)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=white)&nbsp;
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=FreeBSD&logoColor=red)&nbsp;
 
 ### 👨‍💻 About me
 
@@ -50,8 +45,7 @@ Here are some ideas to get you started:
 - 🤖 I’m looking to collaborate on Open-source software projects
 - 🤔 I’m looking for help with Apache Spark
 - 💬 Ask me about Linux, Virtualization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and others.
-- 👽 Take a look at my Python best practices for Testdome tests [testdome_python](https://github.com/deveshgupta7/testdome_python) and [testDomePython](https://github.com/deveshgupta7/testDomePython) repositories
-- 😄 Pronouns: mɑziɑr
+- 😄 Pronouns: devesh
 
 ### 📫 How to reach me:
 
