@@ -40,12 +40,11 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About me
 
-- 🔭 I’m currently working on Audio and Video streaming applications and hosting them on the public and private clouds.
-- 🌱 I’m currently learning Concurrency, Parallel and Distributing, and Multithreading Programming.
-- 🤖 I’m looking to collaborate on Open-source software projects
-- 🤔 I’m looking for help with Apache Spark
-- 💬 Ask me about Linux, Virtualization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and others.
-- 😄 Pronouns: devesh
+- 🔭 I’m currently working on Urban Connect, a platform connecting users with household workers, professionals, and tutors.
+- 🌱 I’m currently learning containerization, Kubernetes, CI/CD, and other trending cloud technology.
+- 🤖 I’m looking to collaborate on open-source software projects.
+- 💬 Ask me about Linux, Cloud Infrastructure, DevOps, Virtualization, Cyber Security, Python, and more!
+
 
 ### 📫 How to reach me:
 
